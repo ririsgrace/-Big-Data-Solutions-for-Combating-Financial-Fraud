@@ -1,1 +1,10 @@
 # -Big-Data-Solutions-for-Combating-Financial-Fraud
+
+Team Members: Rajashree Ramaprabu, Riris Grace Karolina, Yu-Fang(Unice) Liao, Ya Chu Hsu, Yi Cheng Chung
+
+**Report Summary**
+Our project delves into a thorough analysis of transactional and laundering activities across a multitude of currencies, offering insights into the intricate dynamics of illicit financial operations and their broader implications.
+In our analysis, we unearthed intriguing patterns indicative of money laundering practices across various currencies. The noteworthy dominance of the US Dollar and Euro in both total transactions and laundering activities suggests a preference for these currencies in facilitating illicit financial flows, owing to their global prominence and liquidity. Additionally, our identification of recurrent bank codes associated with laundering activities underscores the critical role of regulatory compliance and financial intelligence in combating financial crimes.
+Furthermore, our observation that most laundering transactions involve a single currency highlights the significance of currency stability and liquidity in facilitating illicit transactions. Moreover, the slight inclination towards currency conversion within laundering cycles hints at the adaptability of money laundering schemes. Similarly, the average duration of a laundering cycle per day sheds light on the operational intricacies of laundering schemes and underscores the importance of continuous monitoring and regulatory oversight.
+Our visualizations, particularly the 'Laundering Amount Over Time' chart, provide valuable insights into the temporal dynamics of laundering activities, aligning with theories of financial crime and market volatility. Furthermore, our analysis of the distribution of laundering patterns within a cycle highlights the multifaceted nature of money laundering techniques employed by criminal networks.
+Overall, our findings contribute to the theoretical discourse on financial crime prevention and underscore the pressing need for robust regulatory frameworks and enforcement mechanisms to combat illicit financial activities effectively.
