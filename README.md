@@ -14,15 +14,15 @@ Overall, our findings contribute to the theoretical discourse on financial crime
 
 ## Table of Contents
 
-Business Problem Definition
-Data Source Brief Summary
-Data Preparation & Cleaning
-Exploratory Data Analysis (EDA)
-Data Analysis
-Data Visualization
-Key Findings & Conclusion
-References
-Generative AI Disclosure
+1. Business Problem Definition
+2. Data Source Brief Summary
+3. Data Preparation & Cleaning
+4. Exploratory Data Analysis (EDA)
+5. Data Analysis
+6. Data Visualization
+7. Key Findings & Conclusion
+8. References
+9. Generative AI Disclosure
 
 ## Business Problem Definition
 
