@@ -1,6 +1,6 @@
 # -Big-Data-Solutions-for-Combating-Financial-Fraud
 
-**Team Members: ** Rajashree Ramaprabu, Riris Grace Karolina, Yu-Fang(Unice) Liao, Ya Chu Hsu, Yi Cheng Chung
+**Team Members:** Rajashree Ramaprabu, Riris Grace Karolina, Yu-Fang(Unice) Liao, Ya Chu Hsu, Yi Cheng Chung
 
 ## Report Summary 
 
